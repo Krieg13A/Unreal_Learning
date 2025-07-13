@@ -1,6 +1,9 @@
 # Unreal_Learning
-I am learning Unreal with c++ by my self, if you want to help me ill appreciate it
-------------------------------------------------------------------------------------------------------------------------------------------------------
-Its 13/7/2025 at 20:15. For now I havnet learned nothing that should be shown in a screenshot.
-Learnt about changig material (roughfnes, color, etc), lights (colors, intensity, etc). Tomorrow I'll get my hands on some animations and mecanics.
-------------------------------------------------------------------------------------------------------------------------------------------------------
+I'm learning Unreal Engine with C++ on my own. If you're willing to help, I'd really appreciate it.
+
+13/07/2025 - 20:15
+For now, I haven’t learned anything worth showing in a screenshot.
+Today I explored how to change materials (roughness, color, etc.) and lights (color, intensity, etc.).
+Tomorrow I’ll start working on some animations and basic mechanics.
+
+
