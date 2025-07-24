@@ -10,7 +10,7 @@ Here you'll find:
 - Notes, learnings, and practice tests as I go
 
 ## Tools & Technologies
-- Unreal Engine 5.2
+- Unreal Engine 5.6 (and older versions of UN5)
 - C++
 - Blueprints
 - Git & GitHub
