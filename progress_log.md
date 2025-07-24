@@ -11,4 +11,4 @@ Learning how to use C++ in UE5
 Soon ill get something to show
 
 24/07/2025 - 12:50
-Screenshots on how things are going
+Uploaded screenshots to the `screenshots/` folder in the repository.
